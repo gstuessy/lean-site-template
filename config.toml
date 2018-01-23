@@ -1,4 +1,4 @@
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+baseURL = "https://gstuessy.github.io/lean-site-template/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
@@ -14,20 +14,20 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "Effective Altruism Madison"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
+  fullTitle = "Effective Altruism Madison"
   strapline = "Helping you do good better"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Effective Altruism Madison"
+  orgLocations = "Madison, Wisconsin"
+  contactEmail = "info@eamadison.org"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
