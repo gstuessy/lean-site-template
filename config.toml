@@ -1,4 +1,4 @@
-baseURL = "https://gstuessy.github.io/lean-site-template/"
+baseURL = "http://eamadison.org"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
